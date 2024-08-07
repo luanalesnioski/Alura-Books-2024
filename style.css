@@ -37,7 +37,7 @@ h1 {
     background-repeat: no-repeat;
     background-position: center;
 }
-@import url("styles/header.css");
+@import url("style/header.css");
 
 .cabeçalho {
     background-color: var(--branco);
