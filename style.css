@@ -1,5 +1,7 @@
 @import url("styles/header.css");
 @import url("styles/banner.css");
+@import url("style.css/carrossel.css");
+
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
@@ -60,6 +62,7 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
+
 
 
 
