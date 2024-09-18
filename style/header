@@ -50,7 +50,7 @@
     background-clip: text;
     text-transform: uppercase;
   }
-  Acessibilidade (1).svg
+
   .container__botao {
     display: none;
   }
