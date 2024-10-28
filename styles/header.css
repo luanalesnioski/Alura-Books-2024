@@ -62,6 +62,10 @@
   display: none;
 }
 
+.opções {
+  display: none;
+}
+
 @media screen and (min-width: 1024px) {
   .container__titulo,
   .container__titulo--negrito {
@@ -89,6 +93,7 @@
 
   .opcões__link {
     text-decoration: none;
+    color: var(--preto);
   }
   }
 
