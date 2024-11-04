@@ -76,6 +76,7 @@
   .container__titulo {
     font-weight: 400;
     display: block;
+    unicode-bidi: isolate;
   }
 
   .container__titulo--negrito {
